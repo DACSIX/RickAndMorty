@@ -1,0 +1,30 @@
+.header{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    width: 30%;
+    height: 100%;
+    padding: 20px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    background-image: url(https://st.depositphotos.com/1000820/2110/i/450/depositphotos_21108671-stock-photo-real-night-sky-with-stars.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+
+#image-movie{
+    border-radius: 100%;
+    width: 60%;
+    height: 60%;
+    border: greenyellow solid 10px;
+}
+
+h1{
+    font-size: 50px;
+}
+p{
+    font-size: 25px;
+}
